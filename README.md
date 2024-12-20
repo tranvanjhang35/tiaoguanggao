@@ -50,7 +50,7 @@
     *   免费开源的安卓应用，利用无障碍服务快速点击跳过按钮。
     *   操作简单，使用便捷，有效提升用户体验。
 
-![image](https://github.com/user-attachments/assets/156a9514-9365-43d6-9b6a-f11100eea4a3)
+![image](https://github.com/user-attachments/assets/44bec892-1178-4fa2-a181-69bf63673c46)
 
 ## 注意事项
 
